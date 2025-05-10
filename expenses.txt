@@ -1,0 +1,6 @@
+gas 100
+trip
+gas 100
+trip to vegas
+food 200
+food for diet
